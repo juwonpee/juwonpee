@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to by dump of many things
+Interested in low level development
+Currently working on:
+juwonpee/NES-emulator
+juwonpee/miniOS
 
 <!--
 **juwonpee/juwonpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
