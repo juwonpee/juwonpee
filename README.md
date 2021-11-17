@@ -1,4 +1,4 @@
-### Welcome to by dump of many things
+### Welcome to my dump of many things
 Interested in low level development
 Currently working on:
 juwonpee/NES-emulator
